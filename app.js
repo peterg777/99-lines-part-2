@@ -14,7 +14,7 @@ button.addEventListener('click', function () {
         let div = document.createElement('div');
         div.className = 'friend';
         div.appendChild(h3);
-        document, body.appendChild(h3);
+        document.body.appendChild(h3);
 
 
         for (let j = 99; j > 0; j--) {
