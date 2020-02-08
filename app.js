@@ -38,4 +38,4 @@ button.addEventListener('click', function () {
 
         document.body.appendChild(div);
     }
-}
+})
